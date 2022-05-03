@@ -1,3 +1,3 @@
 # Machine Learning Projects
 
-This space contains final sbmitted code for all the mini-projects done in DA224-O course
+This space contains final submitted code for all the mini-projects & course project done in DA224-O course
